@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.boxes ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  list-style: none;
+}
+
+.boxes ul li a {
+  padding: 20px;
+  display: block;
+  text-decoration: none;
+  color: red;
+}
+/*# sourceMappingURL=style.css.map */

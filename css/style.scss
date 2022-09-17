@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.boxes{
+    ul{
+        display: flex;
+        list-style: none;
+        li{
+            a{
+                padding: 20px;
+                display: block;
+                text-decoration: none;
+                color: red;
+            }
+        }
+    }
+}
